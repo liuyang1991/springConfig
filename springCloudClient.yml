@@ -8,3 +8,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 myKey: keyValue123456
+newKey: newKey8798098
