@@ -7,6 +7,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 
-eurekaServiceUrl: http://localhost:8761/eureka/
+
 myKey: keyValuedfdsfsdf
 newKey: newKey8798098
